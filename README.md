@@ -18,8 +18,8 @@ Run the commands below from the repository root. The lockfile pins official
 OpenHands packages to version 1.31.0. It uses packages published on PyPI.
 
 ```bash
-git clone https://github.com/megagonlabs/crg_ge.git
-cd crg_ge
+git clone https://github.com/megagonlabs/crg_ce.git
+cd crg_ce
 uv venv --python 3.14
 uv sync --locked
 ```
